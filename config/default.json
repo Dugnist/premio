@@ -1,0 +1,21 @@
+{
+
+  "development": {
+
+    "APP_NAME": "Dev API",
+    "DATABASE" : "",
+    "URL" : "http://127.0.0.1",
+    "PORT" : "4000"
+
+  },
+
+  "production": {
+
+    "APP_NAME": "Prod server",
+    "DATABASE" : "mongodb://",
+    "URL" : "https://api.site.com",
+    "PORT" : ""
+
+  }
+
+}
